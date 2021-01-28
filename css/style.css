@@ -84,11 +84,12 @@ body{
   }
   .black-bar{
     font-family: 'Josefin Sans', sans-serif !important;
-      background-color: #1D318F;
+      background-color: #2E3C75;
       color: white;
       display: flex;
       justify-content: end;
       flex-direction: row;
+      height: 15px;
   }
   .black-bar p{
     justify-content: end;

@@ -83,8 +83,10 @@ body{
       font-weight: 600;
   }
   .black-bar{
+    object-fit: cover;
+    object-position:10% 50%;
     font-family: 'Josefin Sans', sans-serif !important;
-      background-color: #2E3C75;
+      background-image: url(../hero-art.png);
       color: white;
       display: flex;
       justify-content: end;

@@ -91,7 +91,6 @@ body{
       display: flex;
       justify-content: end;
       flex-direction: row;
-      height: 15px;
   }
   .black-bar p{
     justify-content: end;

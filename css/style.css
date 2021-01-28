@@ -89,7 +89,6 @@ body{
       display: flex;
       justify-content: end;
       flex-direction: row;
-      text-align: center;
   }
   .black-bar p{
     justify-content: end;

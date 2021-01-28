@@ -9,6 +9,9 @@ body{
     display: flex;
     align-items: center;
   }
+  .logo-header h2{
+    font-family: 'Josefin Sans', sans-serif !important;
+  }
   .logo img{
       width: 60px;
       display: block;
@@ -80,6 +83,7 @@ body{
       font-weight: 600;
   }
   .black-bar{
+    font-family: 'Josefin Sans', sans-serif !important;
       background-color: #1D318F;
       color: white;
       display: flex;
@@ -171,6 +175,7 @@ body{
     padding: 3px;
     text-align: center;
     margin: auto;
+    font-family: 'Josefin Sans', sans-serif !important;
 }
 .col-1-footer ul li{
     padding: 5px;
